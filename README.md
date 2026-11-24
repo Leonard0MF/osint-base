@@ -65,4 +65,4 @@ Os testes não usam a internet: as respostas das APIs são simuladas.
 
 ---
 
-Feito por Leonardo, 17 anos, estudando cibersegurança e programação.
+Feito por Leonardo, 18 anos, estudando cibersegurança e programação.
